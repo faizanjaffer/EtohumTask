@@ -4,7 +4,7 @@ using System.Data.Entity;
 namespace EtohumTask.DAL
 {
     /// <summary>
-    /// This DBContext class for the Connection to Database.
+    /// The DBContext class for the Connection to Database.
     /// Contains name of Connectionstring and property of Collection of enitities.
     /// </summary>
     public class UsersEmailDBContext : DbContext
